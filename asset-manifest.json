@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tracepoint-client/static/css/main.c72d6b23.css",
+    "main.js": "/tracepoint-client/static/js/main.f3962113.js",
+    "static/js/488.c136b384.chunk.js": "/tracepoint-client/static/js/488.c136b384.chunk.js",
+    "index.html": "/tracepoint-client/index.html",
+    "main.c72d6b23.css.map": "/tracepoint-client/static/css/main.c72d6b23.css.map",
+    "main.f3962113.js.map": "/tracepoint-client/static/js/main.f3962113.js.map",
+    "488.c136b384.chunk.js.map": "/tracepoint-client/static/js/488.c136b384.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c72d6b23.css",
+    "static/js/main.f3962113.js"
+  ]
+}
